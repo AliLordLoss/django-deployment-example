@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chester</title>
+    <script
+  src="http://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+</head>
+<body>
+
+    {{ insert_me }}
+
+<style>
+
+    .boxy {
+        background: #b3d543;
+        border: 2px solid black;
+        text-align: center;
+    }
+
+    .turnBlue {
+        color: white;
+        background: blue;
+        text-align: center;
+
+    }
+
+    .turnRed {
+        color: white;
+        background: red;
+        text-align: center;
+    }
+
+</style>
+
+<h1 class="turnBlue" id="one">HOVER OVER ME!</h1>
+<h1 class="turnBlue" id="two">CLICK ME!</h1>
+<h1 class="turnBlue" id="three">DOUBLE CLICK ME!</h1>
+
+<br>
+<div class="boxy">
+    <p id="hmmm">When my time comes, forget the wrongs that I've done, help me leave behind some reasons to be
+        missed</p>
+    <p>don't resent me, and when you're feeling empty, keep me in your memory, leave out all the rest</p>
+    <p>leave out all the rest</p>
+</div>
+
+<input type="button" value="fade" class="turnRed">
+
+<script src="myscript.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91efcd58-b4d3-41d0-84a5-97174dec78a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XoJOx5GgzAxdwOUDdlSYwXANac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="VAR" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sajjad1" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali\PycharmProjects\udemy_practice\templates\first_app" />
+      <recent name="C:\Users\Ali\PycharmProjects\udemy_practice\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PA">
+    <configuration name="PA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="populate_first_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/populate_first_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="udemy_practice" type="Python.DjangoServer" factoryName="Django server">
+      <module name="udemy_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="udemy_practice.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PA" />
+        <item itemvalue="Python.populate_first_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91efcd58-b4d3-41d0-84a5-97174dec78a8" name="Default Changelist" comment="" />
+      <created>1581706486107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581706486107</updated>
+      <workItem from="1581706488504" duration="6141000" />
+      <workItem from="1581775173161" duration="785000" />
+      <workItem from="1582106935077" duration="264000" />
+      <workItem from="1582294719777" duration="891000" />
+      <workItem from="1582362308620" duration="171000" />
+      <workItem from="1582537180370" duration="2536000" />
+      <workItem from="1582557132754" duration="13000" />
+      <workItem from="1582657232213" duration="4129000" />
+      <workItem from="1582703293576" duration="2066000" />
+      <workItem from="1582727676776" duration="4820000" />
+      <workItem from="1582808394155" duration="1712000" />
+      <workItem from="1583311576273" duration="6732000" />
+      <workItem from="1583322380364" duration="1474000" />
+      <workItem from="1583414219395" duration="1259000" />
+      <workItem from="1583432892612" duration="276000" />
+      <workItem from="1583433180496" duration="9000" />
+      <workItem from="1583475962027" duration="52000" />
+      <workItem from="1589132814556" duration="299000" />
+      <workItem from="1589197788311" duration="663000" />
+      <workItem from="1591120075465" duration="5640000" />
+      <workItem from="1591182102256" duration="616000" />
+      <workItem from="1591259640823" duration="636000" />
+      <workItem from="1591269193498" duration="1283000" />
+      <workItem from="1591298342847" duration="657000" />
+      <workItem from="1591319272882" duration="614000" />
+      <workItem from="1591347058994" duration="748000" />
+      <workItem from="1591354978313" duration="1206000" />
+      <workItem from="1591359588726" duration="631000" />
+      <workItem from="1591546245965" duration="6470000" />
+      <workItem from="1591710734854" duration="4384000" />
+      <workItem from="1591872471800" duration="1212000" />
+      <workItem from="1591960113822" duration="857000" />
+      <workItem from="1591969171611" duration="606000" />
+      <workItem from="1591989081501" duration="284000" />
+      <workItem from="1592322793264" duration="8971000" />
+      <workItem from="1592382306787" duration="598000" />
+      <workItem from="1592383835673" duration="978000" />
+      <workItem from="1592392893698" duration="1097000" />
+      <workItem from="1592402929046" duration="709000" />
+      <workItem from="1592414891307" duration="1087000" />
+      <workItem from="1592471349944" duration="375000" />
+      <workItem from="1592477969640" duration="692000" />
+      <workItem from="1592536531527" duration="609000" />
+      <workItem from="1592546218336" duration="46000" />
+      <workItem from="1592842538773" duration="1315000" />
+      <workItem from="1592847031002" duration="1998000" />
+      <workItem from="1592909175206" duration="187000" />
+      <workItem from="1593515026760" duration="4068000" />
+      <workItem from="1593622923925" duration="232000" />
+      <workItem from="1593693426429" duration="191000" />
+      <workItem from="1593706077934" duration="11139000" />
+      <workItem from="1593843499101" duration="1189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591120132005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1591120132005" />
+    <state x="499" y="129" key="FileChooserDialogImpl" timestamp="1593844434901">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="129" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1593844434901" />
+    <state x="499" y="129" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1591359619570" />
+    <state width="1475" height="207" key="GridCell.Tab.0.bottom" timestamp="1593693617992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1593693617992" />
+    <state width="1475" height="207" key="GridCell.Tab.0.center" timestamp="1593693617992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="207" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1593693617992" />
+    <state width="1475" height="207" key="GridCell.Tab.0.left" timestamp="1593693617992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="207" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1593693617992" />
+    <state width="1475" height="207" key="GridCell.Tab.0.right" timestamp="1593693617992">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="207" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1593693617992" />
+    <state width="1475" height="258" key="GridCell.Tab.1.bottom" timestamp="1591989365890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="258" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591989365890" />
+    <state width="1475" height="258" key="GridCell.Tab.1.center" timestamp="1591989365890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="258" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1591989365890" />
+    <state width="1475" height="258" key="GridCell.Tab.1.left" timestamp="1591989365889">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="258" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1591989365889" />
+    <state width="1475" height="258" key="GridCell.Tab.1.right" timestamp="1591989365890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1475" height="258" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1591989365890" />
+    <state width="300" height="614" key="HiddenNamespacesPopup" timestamp="1592323319586">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="300" height="614" key="HiddenNamespacesPopup/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1592323319586" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1593844437596">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1593844437596" />
+    <state x="149" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591319279119" />
+    <state x="368" y="246" width="888" height="372" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1591714788502">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="368" y="246" width="888" height="372" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1591714788502" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1591121711731">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864/1920.0.1360.768@0.0.1536.864" timestamp="1591121711731" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/udemy_practice$PA.coverage" NAME="PA Coverage Results" MODIFIED="1593693502212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemy_practice$populate_first_app.coverage" NAME="populate_first_app Coverage Results" MODIFIED="1591989340638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
