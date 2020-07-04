@@ -25,7 +25,7 @@ SECRET_KEY = 'n3t3b&&akoa7!fjsbgf6dc@8(1(#_!m40zta57ujwzjnogp-z$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fletcher.pythonanywhere.com']
 
 
 # Application definition
